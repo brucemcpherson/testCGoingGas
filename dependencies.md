@@ -1,5 +1,5 @@
 # Google Apps Script Project: testCGoingGas
-This repo (testCGoingGas) was automatically updated on 27 July 2016 10:35:21 BST by GasGit
+This repo (testCGoingGas) was automatically updated on 31 October 2018 11:39:34 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testCGoingGas
@@ -10,15 +10,18 @@ The shared link for [testCGoingGas is here](https://script.google.com/d/1oKMA6uS
 *name*|*type*
 --- | --- 
 Code| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cGoingGas| cGoingGas|MMY9q8Ol6hHfFQxYSYIpxeiz3TLx7pV4j|unknown|no|[here](libraries/cGoingGas "library source")
+cGoingGas| cGoingGas|1MwAmfOkZHWjxkruCnxFwbiD8f53cgwM316Fg3V_94beCa82RFJqsGz2Q|4|no|[here](libraries/cGoingGas "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cGoingGas| cGoingGas|MMY9q8Ol6hHfFQxYSYIpxeiz3TLx7pV4j|unknown|no|[here](libraries/cGoingGas "library source")
+cGoingGas| cGoingGas|1MwAmfOkZHWjxkruCnxFwbiD8f53cgwM316Fg3V_94beCa82RFJqsGz2Q|4|no|[here](libraries/cGoingGas "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
