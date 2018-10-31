@@ -1,0 +1,12 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cGoingGas",
+      "libraryId": "1MwAmfOkZHWjxkruCnxFwbiD8f53cgwM316Fg3V_94beCa82RFJqsGz2Q",
+      "version": "4",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
